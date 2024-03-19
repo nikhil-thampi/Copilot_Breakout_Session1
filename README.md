@@ -3,7 +3,7 @@
 Use the C++ files in the repo for the exercises. Complete the exercises in the sequential order.
 
 ## Exercise 1
-1. Generate documentation for the exercise1.cpp without using GitHub Copilot chat.
+1. Generate documentation for the exercise1.cpp without using GitHub Copilot chat (Hint - Use GitHub Copilot code completion options).
 
 ## Exercise 2
 1. Select exercise2.cpp and use GitHub Copilot Chat to understand the logic of the program. Document the results to the program.
