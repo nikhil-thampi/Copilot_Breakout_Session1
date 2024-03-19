@@ -1,4 +1,4 @@
-# Copilot_breakout_session1
+# Copilot Breakout  Session 1
 
 Use the C++ files in the repo for the exercises. Complete the exercises in the sequential order.
 
