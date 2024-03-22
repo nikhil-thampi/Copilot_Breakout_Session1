@@ -4,6 +4,11 @@
 
 Use the C++ files in the repo for the exercises. Complete the exercises in the sequential order.
 
+Hint - 
+- Run the exercises on your IDE and if you encounter any compilation errors ask copilot about the errors in terminal
+- @terminal #terminalSelection fix or @terminal #terminalSelection explain (if you would like to know more about the
+    error) either of the prompts should get you details and a fix if not ask copilot by expanding more on the prompt.
+
 ### Exercise 1
 1. Generate documentation for the exercise1.cpp without using GitHub Copilot chat (Hint - Use GitHub Copilot code completion options).
 
